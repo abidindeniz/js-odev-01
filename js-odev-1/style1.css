@@ -1,0 +1,25 @@
+.body { 
+    
+    background-color: rgb(43, 41, 45);
+    color: rgba(240, 161, 14, 0.793);
+}
+ .text-1 {
+     font-size:30px;
+     text-align: center;
+     
+ }
+ .text-2{
+     font-size: 20px;
+     text-align: center;
+ }
+ img {
+     margin-top: 60px;
+ }
+ .clock {
+     text-align: center;
+     position: relative;
+     font-size: 50px;
+     color: aqua;
+     background-color: darkgreen;
+     
+ }
